@@ -1,8 +1,8 @@
 ### Hi there, I'm Jay 👋
 
 📫 Reach me on
-  - LinkedIn [https://www.linkedin.com/in/ach-jailani/]
-  - Instagram [https://www.instagram.com/achjailani_/]
+  - [LinkedIn](https://www.linkedin.com/in/ach-jailani/)
+  - [Instagram](https://www.instagram.com/achjailani_/)
 
 <!--
 **achjailani/achjailani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
